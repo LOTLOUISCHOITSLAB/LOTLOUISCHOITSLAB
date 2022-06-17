@@ -1,5 +1,5 @@
-### Hello Everyone! This is my GitHub Repository!
-### Link to my website: https://lotlouischoitslab.github.io/lotlouischoitslaboratory/
+### Hello Everyone! I am Louis Sungwoo Cho and this is my GitHub Repository!
+### Link to my portfolio website: https://lotlouischoitslab.github.io/lotlouischoitslaboratory/
 
 
 Here are some ideas to get you started:
