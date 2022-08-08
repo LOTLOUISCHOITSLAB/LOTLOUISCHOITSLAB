@@ -12,5 +12,5 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 
-⚡ Fun fact: I am a huge fan of airplanes, trains, and KPOP. I love eating Korean food too!
+- ⚡ Fun fact: I am a huge fan of airplanes, trains, and KPOP. I love eating Korean food too!
 
