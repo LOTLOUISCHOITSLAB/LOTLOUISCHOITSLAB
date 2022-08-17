@@ -2,7 +2,7 @@
 ### Link to my portfolio website: https://lotlouischoitslab.github.io/lotlouischoportfolio
 
 - 😄 Pronouns: He/Him
-- 🏫 I'm an Undergraduate Computational Transportation Scientist studying at the University of Illinois at Urbana-Champaign (UIUC). 
+- 🏫 I'm a Computational Transportation Scientist studying at the University of Illinois at Urbana-Champaign (UIUC). 
 - 🔭 I’m currently doing research on DryVR++ Map lane generator for autonomous driving simulators.
 - 🌱 I’m currently learning about autonomous driving and traffic engineering.
 - 👯 I’m looking to collaborate in projects on algorithms for autonomous driving using reinforcement learning.
