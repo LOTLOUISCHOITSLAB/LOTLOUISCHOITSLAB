@@ -1,4 +1,4 @@
-### Hello Everyone! I am Louis Sungwoo Cho and this is my GitHub Repository! [Link to my website](https://lotlouischoitslab.github.io/lotlouischoportfolio)
+### Hello Everyone! I am Louis Sungwoo Cho and this is my GitHub Repository! [Website](https://lotlouischoitslab.github.io/lotlouischoportfolio)
 
 - 😄 Pronouns: He/Him
 - 🏫 I'm a Computational Transportation Scientist studying at the University of Illinois at Urbana-Champaign. 
