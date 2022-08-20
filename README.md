@@ -12,19 +12,19 @@
 ## Courses I have taken at UIUC:
 ### Civil & Environmental Engineering CEE Courses:
 **Transportation Engineering Core**<br/>
-- **CEE 310 Transportation Engineering**
+- **CEE 310 Transportation Engineering (Fall 2021)**
 - **CEE 412 High-Speed Rail Engineering (Fall 2022)**
 - **CEE 415 Geometric Design of Roads (Spring 2023)**
 - **CEE 416 Traffic Capacity Analysis (Fall 2022)**
 - **CEE 418 Public Transportation Systems (Spring 2024)**
 
 **Civil & Environmental Engineering Core**<br/>
-- **CEE 190 Project-Based Introduction to CEE**
-- **CEE 201 Systems Engineering & Economics**
-- **CEE 202 Engineering Uncertainty & risk**
+- **CEE 190 Project-Based Introduction to CEE (Fall 2020)**
+- **CEE 201 Systems Engineering & Economics (Spring 2021)**
+- **CEE 202 Engineering Uncertainty & risk (Spring 2021)**
 - **CEE 300 Behavior of Materials (Spring 2024)**
 - **CEE 320 Construction Engineering (Spring 2023)**
-- **CEE 360 Structural Engineering**
+- **CEE 360 Structural Engineering (Spring 2022)**
 
 
 
@@ -37,23 +37,24 @@
 
 
 **Computer Science Core**<br/>
-- **CS 124 Introduction to Computer Science 1 Java**
-- **CS 128 Introduction to Computer Science 2 C++**
-- **CS 173 Discrete Structures**
-- **CS 225 Data Structures & Software Principles**
+- **CS 124 Introduction to Computer Science 1 Java (Spring 2021)**
+- **CS 128 Introduction to Computer Science 2 C++ (Fall 2021)**
+- **CS 173 Discrete Structures (Fall 2021)**
+- **CS 225 Data Structures & Software Principles (Spring 2022)**
 - **CS 340 Introduction to Computer Systems (Spring 2023)**
-- **CS 357 Numerical Methods in Python**
+- **CS 357 Numerical Methods in Python (Spring 2022)**
 - **CS 374 Algorithms & Models of Computation (Fall 2022)**
 - **CS 421 Programming Languages & Compilers (Summer 2023)**
 
 
 ### Other Required Courses:
-- **TAM 211 Statics**
-- **TAM 212 Dynamics**
-- **TAM 251 Solid Mechanics**
-- **TAM 335 Fluid Mechanics**
+- **TAM 211 Statics (Spring 2021)**
+- **TAM 212 Dynamics (Summer 2021)**
+- **TAM 251 Solid Mechanics (Summer 2021)**
+- **TAM 335 Fluid Mechanics (Fall 2021)**
 - **ECE 205 Introduction to Electronic Circuits (Planned)**
-- **STAT 400 Statistics & Probibility 1**
+- **SE 101 Engineering Graphics Design (Spring 2021)**
+- **STAT 400 Statistics & Probibility 1 (Spring 2022)**
 
 <!-- -  ...
 - 🤔 I’m looking for help with
