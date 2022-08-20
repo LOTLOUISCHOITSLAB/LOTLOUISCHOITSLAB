@@ -18,7 +18,7 @@
 - **CEE 416 Traffic Capacity Analysis (Fall 2022)**
 - **CEE 418 Public Transportation Systems (Spring 2024)**
 
-**CEE Core**<br/>
+**Civil & Environmental Engineering Core**<br/>
 - **CEE 190 Project-Based Introduction to CEE**
 - **CEE 201 Systems Engineering & Economics**
 - **CEE 202 Engineering Uncertainty & risk**
@@ -29,6 +29,14 @@
 
 
 ### Computer Science CS Courses:
+**Artificial Intelligence & Big Data Core**<br/>
+- **CS 411 Database Systems (Fall 2022)**
+- **CS 440 Artificial Intelligence (Spring 2023)**
+- **CS 441 Applied Machine Learning (Fall 2023)**
+- **CS 444 Deep Learning for Computer Vision (Spring 2024)**
+
+
+**Computer Science Core**<br/>
 - **CS 124 Introduction to Computer Science 1 Java**
 - **CS 128 Introduction to Computer Science 2 C++**
 - **CS 173 Discrete Structures**
@@ -44,6 +52,7 @@
 - **TAM 212 Dynamics**
 - **TAM 251 Solid Mechanics**
 - **TAM 335 Fluid Mechanics**
+- **ECE 205 Introduction to Electronic Circuits (Planned)**
 - **STAT 400 Statistics & Probibility 1**
 
 <!-- -  ...
