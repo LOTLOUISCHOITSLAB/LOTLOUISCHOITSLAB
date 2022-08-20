@@ -16,7 +16,8 @@
 - **CEE 412 High-Speed Rail Engineering (Fall 2022)**
 - **CEE 415 Geometric Design of Roads (Spring 2023)**
 - **CEE 416 Traffic Capacity Analysis (Fall 2022)**
-- **CEE 418 Public Transportation Systems (Spring 2024)**<br/>
+- **CEE 418 Public Transportation Systems (Spring 2024)**
+
 **CEE Core**<br/>
 - **CEE 190 Project-Based Introduction to CEE**
 - **CEE 201 Systems Engineering & Economics**
