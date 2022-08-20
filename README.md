@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love airplanes, trains, cars, eating Korean food, listening to KPOP, and watching movies.
 - 💬 Ask me about Autonomous Vehicles, Intelligent Transportation Systems (ITS), Traffic Engineering, and more!
 
-
+## Courses I have taken at UIUC:
 
 <!-- -  ...
 - 🤔 I’m looking for help with
