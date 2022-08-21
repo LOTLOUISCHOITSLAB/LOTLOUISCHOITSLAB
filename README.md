@@ -13,6 +13,7 @@
 ### Civil & Environmental Engineering CEE Courses:
 **Transportation Engineering Core**<br/>
 - **CEE 310 Transportation Engineering (Fall 2021)**
+- **CEE 40- Facilities TBA (Fall 2023)**
 - **CEE 412 High-Speed Rail Engineering (Fall 2022)**
 - **CEE 415 Geometric Design of Roads (Spring 2023)**
 - **CEE 416 Traffic Capacity Analysis (Fall 2022)**
@@ -22,8 +23,9 @@
 - **CEE 190 Project-Based Introduction to CEE (Fall 2020)**
 - **CEE 201 Systems Engineering & Economics (Spring 2021)**
 - **CEE 202 Engineering Uncertainty & risk (Spring 2021)**
-- **CEE 300 Behavior of Materials (Spring 2024)**
+- **CEE 300 Behavior of Materials (Fall 2023)**
 - **CEE 320 Construction Engineering (Spring 2023)**
+- **CEE 350 Water Resources Management (Spring 2024)**
 - **CEE 360 Structural Engineering (Spring 2022)**
 
 
@@ -33,6 +35,7 @@
 - **CS 411 Database Systems (Fall 2022)**
 - **CS 440 Artificial Intelligence (Spring 2023)**
 - **CS 441 Applied Machine Learning (Fall 2023)**
+- **CS 443 Reinforcement Learning (Spring 2024)**
 - **CS 444 Deep Learning for Computer Vision (Spring 2024)**
 
 
