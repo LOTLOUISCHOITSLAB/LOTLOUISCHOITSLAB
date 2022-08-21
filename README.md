@@ -58,6 +58,16 @@
 - **ECE 205 Introduction to Electronic Circuits (Planned)**
 - **SE 101 Engineering Graphics Design (Spring 2021)**
 - **STAT 400 Statistics & Probibility 1 (Spring 2022)**
+- **MATH 285 Ordinary Differential Equations (Fall 2020)**
+- **MATH 257 Linear Algebra with Computational Applications (PRO)**
+- **MATH 241 Calculus 3 (PRO)**
+- **MATH 231 Calculus 2 (AP)**
+- **MATH 221 Calculus 1 (AP)**
+- **CHEM 102 103 104 105 General Chemistry Sequence (AP)**
+- **CS 101 Introduction to Computing (AP)**
+- **PHYS 211 University Physics Mechanics (Fall 2020)**
+- **PHYS 212 University Physics Electricity & Magentism (TRAN 2022)**
+- **PHYS 213 University Physics Mechanics (TBA)**
 
 <!-- -  ...
 - 🤔 I’m looking for help with
