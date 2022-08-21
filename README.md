@@ -13,7 +13,7 @@
 ### Civil & Environmental Engineering CEE Courses:
 **Transportation Engineering Core:**<br/>
 - **CEE 310 Transportation Engineering (Fall 2021)(1.00)**
-- **CEE 40- Facilities TBA (Fall 2023)**
+- **CEE 40- Facilities TBA (Fall 2023)(2.00 or 2.50)**
 - **CEE 412 High-Speed Rail Engineering (Fall 2022)(1.00)**
 - **CEE 415 Geometric Design of Roads (Spring 2023)(3.00)**
 - **CEE 416 Traffic Capacity Analysis (Fall 2022)(1.50)**
