@@ -21,7 +21,7 @@
 
 **Civil & Environmental Engineering Core:**<br/>
 - **CEE 190 Project-Based Introduction to CEE (Fall 2020)**
-- **CEE 201 Systems Engineering & Economics (Spring 2021)**
+- **CEE 201 Civil Systems Engineering & Economics (Spring 2021)**
 - **CEE 202 Engineering Uncertainty & Risk (Spring 2021)**
 - **CEE 300 Behavior of Materials (Fall 2023) (1.00)**
 - **CEE 320 Construction Engineering (Spring 2023) (1.50)**
