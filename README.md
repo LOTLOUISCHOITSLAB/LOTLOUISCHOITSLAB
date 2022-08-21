@@ -12,12 +12,12 @@
 ## Courses I have taken or currently taking at UIUC:
 ### Civil & Environmental Engineering CEE Courses:
 **Transportation Engineering Core:**<br/>
-- **CEE 310 Transportation Engineering (Fall 2021)(1.00)**
-- **CEE 40- Facilities TBA (Fall 2023)(2.00 or 2.50)**
-- **CEE 412 High-Speed Rail Engineering (Fall 2022)(1.00)**
-- **CEE 415 Geometric Design of Roads (Spring 2023)(3.00)**
-- **CEE 416 Traffic Capacity Analysis (Fall 2022)(1.50)**
-- **CEE 418 Public Transportation Systems (Spring 2024)(1.00)**
+- **CEE 310 Transportation Engineering (Fall 2021) (1.00)**
+- **CEE 40- Facilities TBA (Fall 2023) (2.00 or 2.50)**
+- **CEE 412 High-Speed Rail Engineering (Fall 2022) (1.00)**
+- **CEE 415 Geometric Design of Roads (Spring 2023) (3.00)**
+- **CEE 416 Traffic Capacity Analysis (Fall 2022) (1.50)**
+- **CEE 418 Public Transportation Systems (Spring 2024) (1.00)**
 
 **Civil & Environmental Engineering Core:**<br/>
 - **CEE 190 Project-Based Introduction to CEE (Fall 2020)**
@@ -25,9 +25,8 @@
 - **CEE 202 Engineering Uncertainty & risk (Spring 2021)**
 - **CEE 300 Behavior of Materials (Fall 2023) (1.00)**
 - **CEE 320 Construction Engineering (Spring 2023) (1.50)**
-- **CEE 330 Environmental Engineering (Spring 2024)(0.50)**
-- **CEE 360 Structural Engineering (Spring 2022)(0.50)**
-
+- **CEE 330 Environmental Engineering (Spring 2024) (0.50)**
+- **CEE 360 Structural Engineering (Spring 2022) (0.50)**
 
 
 ### Computer Science CS Courses:
