@@ -25,7 +25,7 @@
 - **CEE 202 Engineering Uncertainty & risk (Spring 2021)**
 - **CEE 300 Behavior of Materials (Fall 2023)**
 - **CEE 320 Construction Engineering (Spring 2023)**
-- **CEE 350 Water Resources Management (Spring 2024)**
+- **CEE 330 Environmental Engineering (Spring 2024)**
 - **CEE 360 Structural Engineering (Spring 2022)**
 
 
