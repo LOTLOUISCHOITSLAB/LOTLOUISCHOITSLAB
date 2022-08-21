@@ -31,7 +31,7 @@
 
 
 ### Computer Science CS Courses:
-**Artificial Intelligence & Big Data Core**<br/>
+**Artificial Intelligence & Big Data Core:**<br/>
 - **CS 411 Database Systems (Fall 2022)**
 - **CS 440 Artificial Intelligence (Spring 2023)**
 - **CS 441 Applied Machine Learning (Fall 2023)**
