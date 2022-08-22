@@ -1,7 +1,7 @@
 ## Hello Everyone! I'm Louis Sungwoo Cho and this is my GitHub Repository!<br/> Here is the link to my [portfolio website](https://lotlouischoitslab.github.io/lotlouischoportfolio)!
 
 - 😄 Pronouns: He/Him
-- 🏫 I'm a Computational Transportation Scientist studying at the University of Illinois at Urbana-Champaign. 
+- 🏫 I'm an Undergraduate Student studying at the University of Illinois at Urbana-Champaign. 
 - 🔭 I’m currently doing research on DryVR++ Map lane generator for autonomous driving simulators.
 - 🌱 I’m currently learning about deep reinforcement learning and computer vision.
 - 👯 I’m looking to collaborate in projects on motion planning algorithms using reinforcement learning.
