@@ -2,6 +2,7 @@
 
 - 😄 Pronouns: He/Him
 - 🏫 I'm an Undergraduate CEE/CS Student studying at the University of Illinois at Urbana-Champaign. 
+- 🚦 I'm the President of [ITE@ILLINOIS](https://ite.cee.illinois.edu/)
 - 🔭 I’m currently doing research on DryVR++ Map lane generator for autonomous driving simulators.
 - 🌱 I’m currently learning about deep reinforcement learning and computer vision.
 - 👯 I’m looking to collaborate in projects on motion planning algorithms using reinforcement learning.
