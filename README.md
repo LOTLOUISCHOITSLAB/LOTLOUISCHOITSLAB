@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about deep reinforcement learning and computer vision.
 - 👯 I’m looking to collaborate in projects on motion planning algorithms using reinforcement learning.
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/louis-sungwoo-cho/) || [louis.sw.cho@gmail.com](mailto:louis.sw.cho@gmail.com) || [louissc2@illinois.edu](mailto:louissc2@illinois.edu)
-- ⚡ Fun fact: I love airplanes, trains, cars, eating Korean food, listening to KPOP, and watching movies.
+- ⚡ Fun fact: I love airplanes, trains, cars, Korean food, Korean rap, KPOP, and watching movies.
 - 💬 Ask me about Autonomous Vehicles, Intelligent Transportation Systems (ITS), Traffic Engineering, and more!
 
 <!-- -  ...
