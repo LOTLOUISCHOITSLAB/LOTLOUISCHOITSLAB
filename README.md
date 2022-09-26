@@ -2,8 +2,7 @@
 
 - 😄 Pronouns: He/Him
 - 🏫 I'm an Undergraduate Computational Transportation Science Student studying at UIUC. 
-- 🚦 I'm the RSO President of [ITE@UIUC](https://ite.cee.illinois.edu/) .
-<!-- - 🔭 I’m currently doing research on  -->
+- 🚦 I'm the RSO President of [ITE@UIUC](https://ite.cee.illinois.edu/). <!-- - 🔭 I’m currently doing research on  -->
 - 🌱 I’m currently learning about deep reinforcement learning and computer vision.
 - 👯 I’m looking to collaborate in projects on motion planning algorithms using reinforcement learning.
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/louis-sungwoo-cho/) || [louis.sw.cho@gmail.com](mailto:louis.sw.cho@gmail.com) || [louissc2@illinois.edu](mailto:louissc2@illinois.edu)
