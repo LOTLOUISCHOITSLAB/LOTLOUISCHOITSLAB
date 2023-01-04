@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate in projects on motion planning algorithms using reinforcement learning.
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/louis-sungwoo-cho/)
 - ⚡ Fun fact: I love airplanes, trains, cars, Korean food, Korean rap, KPOP, and watching movies.
-- 💬 Ask me about Autonomous Vehicles, Intelligent Transportation Systems (ITS), Traffic Engineering, and more!
+- 💬 Ask me about Autonomous Vehicles, Intelligent Transportation Systems (ITS), and more!
 
 <!-- -  ...
 - 🤔 I’m looking for help with
