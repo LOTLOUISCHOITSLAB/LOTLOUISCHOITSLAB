@@ -9,6 +9,8 @@
 - ⚡ Fun fact: I love airplanes, buses, cars, trains, Korean food, KPOP and rap, and watching movies.
 - 💬 Ask me about Autonomous Vehicles, Intelligent Transportation Systems (ITS), and more!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotlouischoitslab&theme=tokyonight)
+
 <!-- -  ...
 - 🤔 I’m looking for help with
 - 💬 Ask me about ... -->
