@@ -1,7 +1,7 @@
 ## Hello Everyone! I'm Louis Sungwoo Cho and this is my GitHub Repository!<br/> Here is the link to my [portfolio website](https://lotlouischoitslab.github.io)!
 
 - 😄 Pronouns: He/Him
-- 🏫 I'm an Undergraduate Computational Transportation Science Student studying at UIUC.  
+- 🏫 I'm an Undergraduate Computational Transportation Science Student studying at UIUC.
 - 🚦 I'm the RSO President of [ITE@UIUC](https://ite.cee.illinois.edu/). <!-- - 🔭 I’m currently doing research on  -->
 - 🌱 I’m currently learning about Deep Reinforcement Learning and Computer Vision.
 <!-- - 👯 I’m looking to collaborate in projects on motion planning algorithms using reinforcement learning. -->
