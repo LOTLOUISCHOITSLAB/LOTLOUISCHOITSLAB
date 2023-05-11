@@ -4,7 +4,7 @@
 - 🏫 I'm an Undergraduate Computational Transportation Science Student studying at UIUC.
 - 🚍 I'm the RSO President of [ITE@UIUC](https://ite.cee.illinois.edu/). <!-- - 🔭 I’m currently doing research on  -->
 - 🌱 I’m currently learning about Deep Reinforcement Learning and Computer Vision.
-- 👯 I’m looking to collaborate in projects on Motion Planning and Decision-making Algorithms using Reinforcement Learning.
+- 👯 I’m looking to collaborate in projects on Autonomous Driving Algorithms using Deep Reinforcement Learning.
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/louis-sungwoo-cho/)
 - ⚡ Fun fact: I love airplanes, buses, cars, trains, Korean food, KPOP and rap, and watching movies.
 - 💬 Ask me about Autonomous Vehicles, Intelligent Transportation Systems (ITS), and more!
