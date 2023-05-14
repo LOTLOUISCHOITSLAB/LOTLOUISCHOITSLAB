@@ -13,5 +13,4 @@
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotlouischoitslab&theme=tokyonight)
 
 <!-- -  ...
-- 🤔 I’m looking for help with
-- 💬 Ask me about ... -->
+- 🤔 I’m looking for help with-->
