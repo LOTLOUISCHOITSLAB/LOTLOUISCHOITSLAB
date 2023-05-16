@@ -6,7 +6,7 @@
 - 🔭 I’m currently doing research on Deep Reinforcement Learning & GPT for Autonomous Driving Algorithms.
 <!-- - 🌱 I’m currently learning about Deep Reinforcement Learning and Computer Vision. -->
 - 👯 I’m looking to collaborate in projects in Artificial Intelligence for Transportation.
-- 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/louis-sungwoo-cho/)
+- 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/louis-sungwoo-cho/).
 - ⚡ Fun fact: I love airplanes, buses, cars, trains, Korean food, KPOP and rap, and watching movies.
 - 💬 Ask me about Autonomous Vehicles, Intelligent Transportation Systems (ITS), Connected & Automated Vehicles (CAV) Infrastructure, Public Transportation Systems, High-speed Rail and more!
 
