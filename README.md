@@ -9,8 +9,5 @@
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/louis-sungwoo-cho/).
 - ⚡ Fun fact: I love airplanes, buses, cars, trains, Korean food, KPOP and rap, and watching movies.
 - 💬 Ask me about Autonomous Vehicles, Intelligent Transportation Systems (ITS), Connected & Automated Vehicles (CAV) Infrastructure, Public Transportation Systems, High-speed Rail and more!
-
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotlouischoitslab&theme=tokyonight)
-
 <!-- -  ...
 - 🤔 I’m looking for help with-->
