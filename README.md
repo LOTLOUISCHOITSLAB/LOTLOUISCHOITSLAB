@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him
 - 🏫 I'm an Undergraduate Computational Transportation Science Student studying at UIUC.
 - 🚍 I'm the RSO President of [ITE@UIUC](https://ite.cee.illinois.edu/). 
-- 🔭 I’m currently doing research on Deep Reinforcement Learning & GPT for Autonomous Driving Algorithms.
+- 🔭 I’m currently doing research on Trajectory Prediction Algorithms for Autonomous Vehicles.
 - 👯 I’m looking to collaborate in projects in Artificial Intelligence for Transportation.
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/louis-sungwoo-cho/).
 - ⚡ Fun fact: I love airplanes, buses, cars, trains, Korean food, KPOP and rap, and watching movies.
