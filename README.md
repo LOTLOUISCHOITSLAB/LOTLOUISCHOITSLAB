@@ -4,7 +4,7 @@
 - 🏫 I'm a M.S student studying Computational Transportation Science at UIUC.
 - 🔭 I’m currently doing research on Trajectory and Maneuver Prediction Algorithms for Autonomous Vehicles.
 - 👯 I’m looking to collaborate in projects in Artificial Intelligence for Transportation.
-- 🚍 I'm the RSO President of [ITE@UIUC](https://ite.cee.illinois.edu/) from August 2022 to May 2024. 
+- 🚍 I was the RSO President of [ITE@UIUC](https://ite.cee.illinois.edu/) from August 2022 to May 2024. 
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/louis-sungwoo-cho/).
 - ⚡ Fun fact: I love airplanes, buses, cars, trains, Korean food, KPOP and rap, and watching movies.
 - 💬 Ask me about Autonomous Vehicles, Intelligent Transportation Systems (ITS), Connected & Automated Vehicles (CAV) Infrastructure, Artificial Intelligence, Public Transportation Systems, Air Transportation, High-speed Rail and more!
