@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/Him 
 - 🏫 I'm a CEE M.S student studying Computational Transportation Science at UIUC. 
-- 🔭 I’m currently doing research in Motion Planning for Autonomous Vehicles.
+- 🔭 I’m currently doing research in Autonomous Vehicles.
 - 👯 I’m looking to collaborate in projects in Artificial Intelligence for Transportation. 
 - 🚍 I'm a Graduate Representative and former President of [ITE@UIUC](https://ite.cee.illinois.edu/) . 
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/louis-sungwoo-cho/).
